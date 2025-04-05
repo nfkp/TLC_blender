@@ -1,0 +1,8 @@
+-34.585_-58.35667:
+This map includes data from:GoogleData SIO, NOAA, U.S. Navy, NGA, GEBCOLandsat / CopernicusAirbusImagery from the dates:8/23/2004–1/7/2025Note, some visible imagery has unknown date information.
+
+-34.63472_-58.52694:
+This map includes data from:GoogleLandsat / CopernicusData SIO, NOAA, U.S. Navy, NGA, GEBCOImagery from the dates:1/1/2021–9/24/2021Note, some visible imagery has unknown date information
+
+60.359167_90.173056:
+This map includes data from:GoogleMaxar TechnologiesImagery from the dates:7/12/2006–newer
